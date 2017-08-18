@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bower",
+  "description": "0.0.1",
+  "main": "",
+  "authors": [
+    "HF CHEN <hf.chen@test.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "local",
+    "test"
+  ],
+  "homepage": "www.test.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
